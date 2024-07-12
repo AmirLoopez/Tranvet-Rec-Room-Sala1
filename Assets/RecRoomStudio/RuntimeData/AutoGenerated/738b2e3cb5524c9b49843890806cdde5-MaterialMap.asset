@@ -1,0 +1,895 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c5d14d570d16db4bbcb994b4331a5c1, type: 3}
+  m_Name: 738b2e3cb5524c9b49843890806cdde5-MaterialMap
+  m_EditorClassIdentifier: 
+  entries:
+  - material: {fileID: 5561349426305759274, guid: 1d5bab89aae242048a4a80c991bb36e3,
+      type: 3}
+    shaderName: Rec Room Studio/Lit
+    globalIlluminationFlags: 4
+    renderQueue: 2000
+    doubleSidedGI: 0
+    texProps:
+    - name: _BaseMap
+      value: {fileID: 0}
+    - name: _MetallicGlossMap
+      value: {fileID: 0}
+    - name: _SpecGlossMap
+      value: {fileID: 0}
+    - name: _BumpMap
+      value: {fileID: 0}
+    - name: _ParallaxMap
+      value: {fileID: 0}
+    - name: _OcclusionMap
+      value: {fileID: 0}
+    - name: _EmissionMap
+      value: {fileID: 0}
+    - name: _DetailMask
+      value: {fileID: 0}
+    - name: _DetailAlbedoMap
+      value: {fileID: 0}
+    - name: _DetailNormalMap
+      value: {fileID: 0}
+    - name: _MainTex
+      value: {fileID: 0}
+    - name: unity_Lightmaps
+      value: {fileID: 0}
+    - name: unity_LightmapsInd
+      value: {fileID: 0}
+    - name: unity_ShadowMasks
+      value: {fileID: 0}
+    floatProps:
+    - name: _WorkflowMode
+      value: 1
+    - name: _Cutoff
+      value: 0.5
+    - name: _Smoothness
+      value: 0
+    - name: _SmoothnessTextureChannel
+      value: 0
+    - name: _Metallic
+      value: 0
+    - name: _SpecularHighlights
+      value: 1
+    - name: _EnvironmentReflections
+      value: 1
+    - name: _BumpScale
+      value: 1
+    - name: _Parallax
+      value: 0.02
+    - name: _OcclusionStrength
+      value: 1
+    - name: _DetailAlbedoMapScale
+      value: 1
+    - name: _DetailNormalMapScale
+      value: 1
+    - name: _ClearCoatMask
+      value: 0
+    - name: _ClearCoatSmoothness
+      value: 0
+    - name: _Surface
+      value: 0
+    - name: _Blend
+      value: 0
+    - name: _Cull
+      value: 2
+    - name: _AlphaClip
+      value: 0
+    - name: _SrcBlend
+      value: 1
+    - name: _DstBlend
+      value: 0
+    - name: _ZWrite
+      value: 1
+    - name: _ReceiveShadows
+      value: 1
+    - name: _QueueOffset
+      value: 0
+    - name: _GlossMapScale
+      value: 1
+    - name: _Glossiness
+      value: 0
+    - name: _GlossyReflections
+      value: 1
+    vecProps:
+    - name: _BaseMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _MetallicGlossMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _SpecGlossMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _BumpMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _ParallaxMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _OcclusionMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _EmissionMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _DetailMask
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _DetailAlbedoMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _DetailNormalMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _MainTex
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: unity_Lightmaps
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: unity_LightmapsInd
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: unity_ShadowMasks
+      value: {x: 1, y: 1, z: 0, w: 0}
+    colorProps:
+    - name: _BaseColor
+      value: {r: 0.7353569, g: 0.7353569, b: 0.7353569, a: 1}
+    - name: _SpecColor
+      value: {r: 0.19999993, g: 0.19999993, b: 0.19999993, a: 1}
+    - name: _EmissionColor
+      value: {r: 0, g: 0, b: 0, a: 1}
+    - name: _Color
+      value: {r: 0.7353569, g: 0.7353569, b: 0.7353569, a: 1}
+  - material: {fileID: 5561349426305759274, guid: 25b7bee0dcb065b4eb0d879a3637a899,
+      type: 3}
+    shaderName: Rec Room Studio/Lit
+    globalIlluminationFlags: 4
+    renderQueue: 2000
+    doubleSidedGI: 0
+    texProps:
+    - name: _BaseMap
+      value: {fileID: 0}
+    - name: _MetallicGlossMap
+      value: {fileID: 0}
+    - name: _SpecGlossMap
+      value: {fileID: 0}
+    - name: _BumpMap
+      value: {fileID: 0}
+    - name: _ParallaxMap
+      value: {fileID: 0}
+    - name: _OcclusionMap
+      value: {fileID: 0}
+    - name: _EmissionMap
+      value: {fileID: 0}
+    - name: _DetailMask
+      value: {fileID: 0}
+    - name: _DetailAlbedoMap
+      value: {fileID: 0}
+    - name: _DetailNormalMap
+      value: {fileID: 0}
+    - name: _MainTex
+      value: {fileID: 0}
+    - name: unity_Lightmaps
+      value: {fileID: 0}
+    - name: unity_LightmapsInd
+      value: {fileID: 0}
+    - name: unity_ShadowMasks
+      value: {fileID: 0}
+    floatProps:
+    - name: _WorkflowMode
+      value: 1
+    - name: _Cutoff
+      value: 0.5
+    - name: _Smoothness
+      value: 0
+    - name: _SmoothnessTextureChannel
+      value: 0
+    - name: _Metallic
+      value: 0
+    - name: _SpecularHighlights
+      value: 1
+    - name: _EnvironmentReflections
+      value: 1
+    - name: _BumpScale
+      value: 1
+    - name: _Parallax
+      value: 0.02
+    - name: _OcclusionStrength
+      value: 1
+    - name: _DetailAlbedoMapScale
+      value: 1
+    - name: _DetailNormalMapScale
+      value: 1
+    - name: _ClearCoatMask
+      value: 0
+    - name: _ClearCoatSmoothness
+      value: 0
+    - name: _Surface
+      value: 0
+    - name: _Blend
+      value: 0
+    - name: _Cull
+      value: 2
+    - name: _AlphaClip
+      value: 0
+    - name: _SrcBlend
+      value: 1
+    - name: _DstBlend
+      value: 0
+    - name: _ZWrite
+      value: 1
+    - name: _ReceiveShadows
+      value: 1
+    - name: _QueueOffset
+      value: 0
+    - name: _GlossMapScale
+      value: 1
+    - name: _Glossiness
+      value: 0
+    - name: _GlossyReflections
+      value: 1
+    vecProps:
+    - name: _BaseMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _MetallicGlossMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _SpecGlossMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _BumpMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _ParallaxMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _OcclusionMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _EmissionMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _DetailMask
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _DetailAlbedoMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _DetailNormalMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _MainTex
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: unity_Lightmaps
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: unity_LightmapsInd
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: unity_ShadowMasks
+      value: {x: 1, y: 1, z: 0, w: 0}
+    colorProps:
+    - name: _BaseColor
+      value: {r: 0.7353569, g: 0.7353569, b: 0.7353569, a: 1}
+    - name: _SpecColor
+      value: {r: 0.19999993, g: 0.19999993, b: 0.19999993, a: 1}
+    - name: _EmissionColor
+      value: {r: 0, g: 0, b: 0, a: 1}
+    - name: _Color
+      value: {r: 0.7353569, g: 0.7353569, b: 0.7353569, a: 1}
+  - material: {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+    shaderName: Rec Room Studio/Lit
+    globalIlluminationFlags: 4
+    renderQueue: 2000
+    doubleSidedGI: 0
+    texProps:
+    - name: _BaseMap
+      value: {fileID: 0}
+    - name: _MetallicGlossMap
+      value: {fileID: 0}
+    - name: _SpecGlossMap
+      value: {fileID: 0}
+    - name: _BumpMap
+      value: {fileID: 0}
+    - name: _ParallaxMap
+      value: {fileID: 0}
+    - name: _OcclusionMap
+      value: {fileID: 0}
+    - name: _EmissionMap
+      value: {fileID: 0}
+    - name: _DetailMask
+      value: {fileID: 0}
+    - name: _DetailAlbedoMap
+      value: {fileID: 0}
+    - name: _DetailNormalMap
+      value: {fileID: 0}
+    - name: _MainTex
+      value: {fileID: 0}
+    - name: unity_Lightmaps
+      value: {fileID: 0}
+    - name: unity_LightmapsInd
+      value: {fileID: 0}
+    - name: unity_ShadowMasks
+      value: {fileID: 0}
+    floatProps:
+    - name: _WorkflowMode
+      value: 1
+    - name: _Cutoff
+      value: 0.5
+    - name: _Smoothness
+      value: 0.5
+    - name: _SmoothnessTextureChannel
+      value: 0
+    - name: _Metallic
+      value: 0
+    - name: _SpecularHighlights
+      value: 1
+    - name: _EnvironmentReflections
+      value: 1
+    - name: _BumpScale
+      value: 1
+    - name: _Parallax
+      value: 0.02
+    - name: _OcclusionStrength
+      value: 1
+    - name: _DetailAlbedoMapScale
+      value: 1
+    - name: _DetailNormalMapScale
+      value: 1
+    - name: _ClearCoatMask
+      value: 0
+    - name: _ClearCoatSmoothness
+      value: 0
+    - name: _Surface
+      value: 0
+    - name: _Blend
+      value: 0
+    - name: _Cull
+      value: 2
+    - name: _AlphaClip
+      value: 0
+    - name: _SrcBlend
+      value: 1
+    - name: _DstBlend
+      value: 0
+    - name: _ZWrite
+      value: 1
+    - name: _ReceiveShadows
+      value: 1
+    - name: _QueueOffset
+      value: 0
+    - name: _GlossMapScale
+      value: 1
+    - name: _Glossiness
+      value: 0.5
+    - name: _GlossyReflections
+      value: 1
+    vecProps:
+    - name: _BaseMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _MetallicGlossMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _SpecGlossMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _BumpMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _ParallaxMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _OcclusionMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _EmissionMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _DetailMask
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _DetailAlbedoMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _DetailNormalMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _MainTex
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: unity_Lightmaps
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: unity_LightmapsInd
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: unity_ShadowMasks
+      value: {x: 1, y: 1, z: 0, w: 0}
+    colorProps:
+    - name: _BaseColor
+      value: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - name: _SpecColor
+      value: {r: 1, g: 1, b: 1, a: 1}
+    - name: _EmissionColor
+      value: {r: 0, g: 0, b: 0, a: 1}
+    - name: _Color
+      value: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  - material: {fileID: 5561349426305759274, guid: 4e27e3e7b0812f840b4c322f5984a35d,
+      type: 3}
+    shaderName: Rec Room Studio/Lit
+    globalIlluminationFlags: 4
+    renderQueue: 2000
+    doubleSidedGI: 0
+    texProps:
+    - name: _BaseMap
+      value: {fileID: 0}
+    - name: _MetallicGlossMap
+      value: {fileID: 0}
+    - name: _SpecGlossMap
+      value: {fileID: 0}
+    - name: _BumpMap
+      value: {fileID: 0}
+    - name: _ParallaxMap
+      value: {fileID: 0}
+    - name: _OcclusionMap
+      value: {fileID: 0}
+    - name: _EmissionMap
+      value: {fileID: 0}
+    - name: _DetailMask
+      value: {fileID: 0}
+    - name: _DetailAlbedoMap
+      value: {fileID: 0}
+    - name: _DetailNormalMap
+      value: {fileID: 0}
+    - name: _MainTex
+      value: {fileID: 0}
+    - name: unity_Lightmaps
+      value: {fileID: 0}
+    - name: unity_LightmapsInd
+      value: {fileID: 0}
+    - name: unity_ShadowMasks
+      value: {fileID: 0}
+    floatProps:
+    - name: _WorkflowMode
+      value: 1
+    - name: _Cutoff
+      value: 0.5
+    - name: _Smoothness
+      value: 0
+    - name: _SmoothnessTextureChannel
+      value: 0
+    - name: _Metallic
+      value: 0
+    - name: _SpecularHighlights
+      value: 1
+    - name: _EnvironmentReflections
+      value: 1
+    - name: _BumpScale
+      value: 1
+    - name: _Parallax
+      value: 0.02
+    - name: _OcclusionStrength
+      value: 1
+    - name: _DetailAlbedoMapScale
+      value: 1
+    - name: _DetailNormalMapScale
+      value: 1
+    - name: _ClearCoatMask
+      value: 0
+    - name: _ClearCoatSmoothness
+      value: 0
+    - name: _Surface
+      value: 0
+    - name: _Blend
+      value: 0
+    - name: _Cull
+      value: 2
+    - name: _AlphaClip
+      value: 0
+    - name: _SrcBlend
+      value: 1
+    - name: _DstBlend
+      value: 0
+    - name: _ZWrite
+      value: 1
+    - name: _ReceiveShadows
+      value: 1
+    - name: _QueueOffset
+      value: 0
+    - name: _GlossMapScale
+      value: 1
+    - name: _Glossiness
+      value: 0
+    - name: _GlossyReflections
+      value: 1
+    vecProps:
+    - name: _BaseMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _MetallicGlossMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _SpecGlossMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _BumpMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _ParallaxMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _OcclusionMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _EmissionMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _DetailMask
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _DetailAlbedoMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _DetailNormalMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _MainTex
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: unity_Lightmaps
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: unity_LightmapsInd
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: unity_ShadowMasks
+      value: {x: 1, y: 1, z: 0, w: 0}
+    colorProps:
+    - name: _BaseColor
+      value: {r: 0.7353569, g: 0.7353569, b: 0.7353569, a: 1}
+    - name: _SpecColor
+      value: {r: 0.19999993, g: 0.19999993, b: 0.19999993, a: 1}
+    - name: _EmissionColor
+      value: {r: 0, g: 0, b: 0, a: 1}
+    - name: _Color
+      value: {r: 0.7353569, g: 0.7353569, b: 0.7353569, a: 1}
+  - material: {fileID: 5561349426305759274, guid: b1c4de7dee993474fadb8142d89712fa,
+      type: 3}
+    shaderName: Rec Room Studio/Lit
+    globalIlluminationFlags: 4
+    renderQueue: 2000
+    doubleSidedGI: 0
+    texProps:
+    - name: _BaseMap
+      value: {fileID: 0}
+    - name: _MetallicGlossMap
+      value: {fileID: 0}
+    - name: _SpecGlossMap
+      value: {fileID: 0}
+    - name: _BumpMap
+      value: {fileID: 0}
+    - name: _ParallaxMap
+      value: {fileID: 0}
+    - name: _OcclusionMap
+      value: {fileID: 0}
+    - name: _EmissionMap
+      value: {fileID: 0}
+    - name: _DetailMask
+      value: {fileID: 0}
+    - name: _DetailAlbedoMap
+      value: {fileID: 0}
+    - name: _DetailNormalMap
+      value: {fileID: 0}
+    - name: _MainTex
+      value: {fileID: 0}
+    - name: unity_Lightmaps
+      value: {fileID: 0}
+    - name: unity_LightmapsInd
+      value: {fileID: 0}
+    - name: unity_ShadowMasks
+      value: {fileID: 0}
+    floatProps:
+    - name: _WorkflowMode
+      value: 1
+    - name: _Cutoff
+      value: 0.5
+    - name: _Smoothness
+      value: 0
+    - name: _SmoothnessTextureChannel
+      value: 0
+    - name: _Metallic
+      value: 0
+    - name: _SpecularHighlights
+      value: 1
+    - name: _EnvironmentReflections
+      value: 1
+    - name: _BumpScale
+      value: 1
+    - name: _Parallax
+      value: 0.02
+    - name: _OcclusionStrength
+      value: 1
+    - name: _DetailAlbedoMapScale
+      value: 1
+    - name: _DetailNormalMapScale
+      value: 1
+    - name: _ClearCoatMask
+      value: 0
+    - name: _ClearCoatSmoothness
+      value: 0
+    - name: _Surface
+      value: 0
+    - name: _Blend
+      value: 0
+    - name: _Cull
+      value: 2
+    - name: _AlphaClip
+      value: 0
+    - name: _SrcBlend
+      value: 1
+    - name: _DstBlend
+      value: 0
+    - name: _ZWrite
+      value: 1
+    - name: _ReceiveShadows
+      value: 1
+    - name: _QueueOffset
+      value: 0
+    - name: _GlossMapScale
+      value: 1
+    - name: _Glossiness
+      value: 0
+    - name: _GlossyReflections
+      value: 1
+    vecProps:
+    - name: _BaseMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _MetallicGlossMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _SpecGlossMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _BumpMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _ParallaxMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _OcclusionMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _EmissionMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _DetailMask
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _DetailAlbedoMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _DetailNormalMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _MainTex
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: unity_Lightmaps
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: unity_LightmapsInd
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: unity_ShadowMasks
+      value: {x: 1, y: 1, z: 0, w: 0}
+    colorProps:
+    - name: _BaseColor
+      value: {r: 0.7353569, g: 0.7353569, b: 0.7353569, a: 1}
+    - name: _SpecColor
+      value: {r: 0.19999993, g: 0.19999993, b: 0.19999993, a: 1}
+    - name: _EmissionColor
+      value: {r: 0, g: 0, b: 0, a: 1}
+    - name: _Color
+      value: {r: 0.7353569, g: 0.7353569, b: 0.7353569, a: 1}
+  - material: {fileID: 5561349426305759274, guid: b757dbe9f0924e242a50a90d8c3c7154,
+      type: 3}
+    shaderName: Rec Room Studio/Lit
+    globalIlluminationFlags: 4
+    renderQueue: 2000
+    doubleSidedGI: 0
+    texProps:
+    - name: _BaseMap
+      value: {fileID: 0}
+    - name: _MetallicGlossMap
+      value: {fileID: 0}
+    - name: _SpecGlossMap
+      value: {fileID: 0}
+    - name: _BumpMap
+      value: {fileID: 0}
+    - name: _ParallaxMap
+      value: {fileID: 0}
+    - name: _OcclusionMap
+      value: {fileID: 0}
+    - name: _EmissionMap
+      value: {fileID: 0}
+    - name: _DetailMask
+      value: {fileID: 0}
+    - name: _DetailAlbedoMap
+      value: {fileID: 0}
+    - name: _DetailNormalMap
+      value: {fileID: 0}
+    - name: _MainTex
+      value: {fileID: 0}
+    - name: unity_Lightmaps
+      value: {fileID: 0}
+    - name: unity_LightmapsInd
+      value: {fileID: 0}
+    - name: unity_ShadowMasks
+      value: {fileID: 0}
+    floatProps:
+    - name: _WorkflowMode
+      value: 1
+    - name: _Cutoff
+      value: 0.5
+    - name: _Smoothness
+      value: 0
+    - name: _SmoothnessTextureChannel
+      value: 0
+    - name: _Metallic
+      value: 0
+    - name: _SpecularHighlights
+      value: 1
+    - name: _EnvironmentReflections
+      value: 1
+    - name: _BumpScale
+      value: 1
+    - name: _Parallax
+      value: 0.02
+    - name: _OcclusionStrength
+      value: 1
+    - name: _DetailAlbedoMapScale
+      value: 1
+    - name: _DetailNormalMapScale
+      value: 1
+    - name: _ClearCoatMask
+      value: 0
+    - name: _ClearCoatSmoothness
+      value: 0
+    - name: _Surface
+      value: 0
+    - name: _Blend
+      value: 0
+    - name: _Cull
+      value: 2
+    - name: _AlphaClip
+      value: 0
+    - name: _SrcBlend
+      value: 1
+    - name: _DstBlend
+      value: 0
+    - name: _ZWrite
+      value: 1
+    - name: _ReceiveShadows
+      value: 1
+    - name: _QueueOffset
+      value: 0
+    - name: _GlossMapScale
+      value: 1
+    - name: _Glossiness
+      value: 0
+    - name: _GlossyReflections
+      value: 1
+    vecProps:
+    - name: _BaseMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _MetallicGlossMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _SpecGlossMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _BumpMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _ParallaxMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _OcclusionMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _EmissionMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _DetailMask
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _DetailAlbedoMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _DetailNormalMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _MainTex
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: unity_Lightmaps
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: unity_LightmapsInd
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: unity_ShadowMasks
+      value: {x: 1, y: 1, z: 0, w: 0}
+    colorProps:
+    - name: _BaseColor
+      value: {r: 0.7353569, g: 0.7353569, b: 0.7353569, a: 1}
+    - name: _SpecColor
+      value: {r: 0.19999993, g: 0.19999993, b: 0.19999993, a: 1}
+    - name: _EmissionColor
+      value: {r: 0, g: 0, b: 0, a: 1}
+    - name: _Color
+      value: {r: 0.7353569, g: 0.7353569, b: 0.7353569, a: 1}
+  - material: {fileID: 2100000, guid: ee6c8a9f614487f49aa6732b35577fdf, type: 2}
+    shaderName: Rec Room Studio/Lit
+    globalIlluminationFlags: 4
+    renderQueue: 3000
+    doubleSidedGI: 0
+    texProps:
+    - name: _BaseMap
+      value: {fileID: 0}
+    - name: _MetallicGlossMap
+      value: {fileID: 0}
+    - name: _SpecGlossMap
+      value: {fileID: 0}
+    - name: _BumpMap
+      value: {fileID: 0}
+    - name: _ParallaxMap
+      value: {fileID: 0}
+    - name: _OcclusionMap
+      value: {fileID: 0}
+    - name: _EmissionMap
+      value: {fileID: 0}
+    - name: _DetailMask
+      value: {fileID: 0}
+    - name: _DetailAlbedoMap
+      value: {fileID: 0}
+    - name: _DetailNormalMap
+      value: {fileID: 0}
+    - name: _MainTex
+      value: {fileID: 0}
+    - name: unity_Lightmaps
+      value: {fileID: 0}
+    - name: unity_LightmapsInd
+      value: {fileID: 0}
+    - name: unity_ShadowMasks
+      value: {fileID: 0}
+    floatProps:
+    - name: _WorkflowMode
+      value: 1
+    - name: _Cutoff
+      value: 0.5
+    - name: _Smoothness
+      value: 0.5
+    - name: _SmoothnessTextureChannel
+      value: 0
+    - name: _Metallic
+      value: 1
+    - name: _SpecularHighlights
+      value: 1
+    - name: _EnvironmentReflections
+      value: 1
+    - name: _BumpScale
+      value: 1
+    - name: _Parallax
+      value: 0.005
+    - name: _OcclusionStrength
+      value: 1
+    - name: _DetailAlbedoMapScale
+      value: 1
+    - name: _DetailNormalMapScale
+      value: 1
+    - name: _ClearCoatMask
+      value: 0
+    - name: _ClearCoatSmoothness
+      value: 0
+    - name: _Surface
+      value: 1
+    - name: _Blend
+      value: 0
+    - name: _Cull
+      value: 2
+    - name: _AlphaClip
+      value: 0
+    - name: _SrcBlend
+      value: 5
+    - name: _DstBlend
+      value: 10
+    - name: _ZWrite
+      value: 0
+    - name: _ReceiveShadows
+      value: 1
+    - name: _QueueOffset
+      value: 0
+    - name: _GlossMapScale
+      value: 0
+    - name: _Glossiness
+      value: 0
+    - name: _GlossyReflections
+      value: 0
+    vecProps:
+    - name: _BaseMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _MetallicGlossMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _SpecGlossMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _BumpMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _ParallaxMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _OcclusionMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _EmissionMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _DetailMask
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _DetailAlbedoMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _DetailNormalMap
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: _MainTex
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: unity_Lightmaps
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: unity_LightmapsInd
+      value: {x: 1, y: 1, z: 0, w: 0}
+    - name: unity_ShadowMasks
+      value: {x: 1, y: 1, z: 0, w: 0}
+    colorProps:
+    - name: _BaseColor
+      value: {r: 0.4705881, g: 0.4705881, b: 0.4705881, a: 0.9137255}
+    - name: _SpecColor
+      value: {r: 0.19999993, g: 0.19999993, b: 0.19999993, a: 1}
+    - name: _EmissionColor
+      value: {r: 0, g: 0, b: 0, a: 1}
+    - name: _Color
+      value: {r: 0.47058803, g: 0.47058803, b: 0.47058803, a: 0.9137255}
